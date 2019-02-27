@@ -1,6 +1,8 @@
 SYSC 4001, Assignment 1
 Andrew Dybka(101041087), Sebastien Cook(101022643)
 
+Matrix Multiplication with multiple processes and shared memory
+
 Part 1 file(s), AssignmentA.c
 Part 2 file(s), AssignmentB.c
 
